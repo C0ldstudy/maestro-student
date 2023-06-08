@@ -1,0 +1,6 @@
+**/__pycache__/*
+**/datasets/CIFAR10/**
+**/datasets/MNIST/**
+datasets/*
+**/*.pth
+**/results.json
