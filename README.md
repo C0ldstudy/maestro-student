@@ -2,6 +2,8 @@
 This repository contains the student version of the maestro platform to learn adversarial machine learning algorithm.
 
 
+![](./logo.png)
+
 ## Installation
 To install the Maestro Platform, follow these steps:
 1. Create a python environment by [conda](https://docs.anaconda.com/free/anaconda/install/index.html) or [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
