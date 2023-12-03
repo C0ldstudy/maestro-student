@@ -35,4 +35,11 @@ For each task, we provide a brief README file that includes the background infor
 If you are interested in obtaining the teacher version, please send a request to `maestro.uci@gmail.com`.
 
 ## Citation
-Coming soon...
+```
+@article{geleta2023maestro,
+  title={Maestro: A Gamified Platform for Teaching AI Robustness},
+  author={Geleta, Margarita and Xu, Jiacen and Loya, Manikanta and Wang, Junlin and Singh, Sameer and Li, Zhou and Gago-Masague, Sergio},
+  journal={arXiv preprint arXiv:2306.08238},
+  year={2023}
+}
+```
