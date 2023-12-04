@@ -1,6 +1,6 @@
 # maestro-student
-This repository contains the student version of the maestro platform to learn adversarial machine learning algorithm.
-
+This repository contains the student version of the maestro platform to learn adversarial machine learning algorithms.
+The paper "Maestro: a gamified platform for teaching AI robustness" ([link](https://dl.acm.org/doi/10.1609/aaai.v37i13.26878)) was accepted at the Thirteenth Symposium on Educational Advances in Artificial Intelligence, EAAI 2023.
 
 ![](./logo.png)
 
@@ -36,10 +36,30 @@ If you are interested in obtaining the teacher version, please send a request to
 
 ## Citation
 ```
-@article{geleta2023maestro,
-  title={Maestro: A Gamified Platform for Teaching AI Robustness},
-  author={Geleta, Margarita and Xu, Jiacen and Loya, Manikanta and Wang, Junlin and Singh, Sameer and Li, Zhou and Gago-Masague, Sergio},
-  journal={arXiv preprint arXiv:2306.08238},
-  year={2023}
+@inproceedings{DBLP:conf/aaai/GeletaXLW00M23,
+  author       = {Margarita Geleta and
+                  Jiacen Xu and
+                  Manikanta Loya and
+                  Junlin Wang and
+                  Sameer Singh and
+                  Zhou Li and
+                  Sergio Gago Masagu{\'{e}}},
+  editor       = {Brian Williams and
+                  Yiling Chen and
+                  Jennifer Neville},
+  title        = {Maestro: {A} Gamified Platform for Teaching {AI} Robustness},
+  booktitle    = {Thirty-Seventh {AAAI} Conference on Artificial Intelligence, {AAAI}
+                  2023, Thirty-Fifth Conference on Innovative Applications of Artificial
+                  Intelligence, {IAAI} 2023, Thirteenth Symposium on Educational Advances
+                  in Artificial Intelligence, {EAAI} 2023, Washington, DC, USA, February
+                  7-14, 2023},
+  pages        = {15816--15824},
+  publisher    = {{AAAI} Press},
+  year         = {2023},
+  url          = {https://doi.org/10.1609/aaai.v37i13.26878},
+  doi          = {10.1609/AAAI.V37I13.26878},
+  timestamp    = {Sun, 12 Nov 2023 02:11:30 +0100},
+  biburl       = {https://dblp.org/rec/conf/aaai/GeletaXLW00M23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
